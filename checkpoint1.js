@@ -67,17 +67,3 @@ else if (comida == "brigadeiro" && tempo >= 24){
 else{
     console.log("Prato inexistente")
 }
-
-
-
-
-
-/*
-|| (comida == "macarrão" && tempo == 8) || (comida == "carne" && tempo == 15) || (comida == "feijão" && tempo == 12) || (comida == "brigadeiro" && tempo == 8)){
-        console.log("Prato pronto, bon appétit!");
-    }
-    if else { tempo
-        console.log("Deu ruim");
-    }
-
-*/
